@@ -1,0 +1,190 @@
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.exe
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\add.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\add1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_arrow.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_arrow1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button2.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete2.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue_return.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue_return1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\library.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login2.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\logout.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\logout1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_books.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_books1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_members.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_members1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\password.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\return.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\return1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\save.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\save1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update2.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\username.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\username1.png
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.deps.json
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.runtimeconfig.json
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.pdb
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.Core.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.Core.pdb
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.BooksForm.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.Dashboard.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.IssueReturnForm.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.LoginForm.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.ManageLibraryMembers.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Properties.Resources.resources
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.GenerateResource.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.AssemblyInfoInputs.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.AssemblyInfo.cs
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.Wind.14468C04.Up2Date
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\refint\App.WindowsApp.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.pdb
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.genruntimeconfig.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\ref\App.WindowsApp.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.exe
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\add.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\add1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_arrow.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_arrow1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\back_button2.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\delete2.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue_return.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\issue_return1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\library.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\login2.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\logout.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\logout1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_books.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_books1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_members.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\manage_members1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\password.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\return.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\return1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\save.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\save1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\update2.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\username.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Resources\username1.png
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.deps.json
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.runtimeconfig.json
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.WindowsApp.pdb
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.Core.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\bin\Debug\net10.0-windows\App.Core.pdb
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.BooksForm.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.Dashboard.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.IssueReturnForm.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.LoginForm.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Forms.ManageLibraryMembers.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.Properties.Resources.resources
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.Wind.14468C04.Up2Date
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\refint\App.WindowsApp.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.pdb
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\App.WindowsApp.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.WindowsApp\obj\Debug\net10.0-windows\ref\App.WindowsApp.dll

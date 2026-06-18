@@ -1,0 +1,7 @@
+﻿ALTER TABLE IssueReturn 
+DROP CONSTRAINT FK_IssueReturn_Members; 
+
+ALTER TABLE IssueReturn 
+ADD CONSTRAINT FK_IssueReturn_Members 
+FOREIGN KEY (MemberID) REFERENCES Members(MemberID) 
+ON DELETE CASCADE;

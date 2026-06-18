@@ -1,0 +1,24 @@
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.deps.json
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.pdb
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.AssemblyInfo.cs
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\refint\App.Core.dll
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.pdb
+C:\Users\Best Point\source\repos\LibraryManagementSystem\App.Core\obj\Debug\net10.0\ref\App.Core.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.deps.json
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\bin\Debug\net10.0\App.Core.pdb
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\refint\App.Core.dll
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\App.Core.pdb
+C:\Users\Administrator\Downloads\LibraryManagementSystem\LibraryManagementSystem\App.Core\obj\Debug\net10.0\ref\App.Core.dll
